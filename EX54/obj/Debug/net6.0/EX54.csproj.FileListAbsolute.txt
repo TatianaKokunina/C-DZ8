@@ -1,0 +1,15 @@
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.csproj.AssemblyReference.cache
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.AssemblyInfoInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.AssemblyInfo.cs
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.csproj.CoreCompileInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\bin\Debug\net6.0\EX54.exe
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\bin\Debug\net6.0\EX54.deps.json
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\bin\Debug\net6.0\EX54.runtimeconfig.json
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\bin\Debug\net6.0\EX54.dll
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\bin\Debug\net6.0\EX54.pdb
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.dll
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\refint\EX54.dll
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.pdb
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\EX54.genruntimeconfig.cache
+D:\Базовый курс. Тестировщик\C#DZ8\EX54\obj\Debug\net6.0\ref\EX54.dll
